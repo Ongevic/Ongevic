@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ONGEVI
+- 👋 Hi, I’m @VICTORCHICHI
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Environmental change and Global sustainability
 - 💞️ I’m looking to collaborate on R and python data analytics 
