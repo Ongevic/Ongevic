@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ongevic
 - 👀 I’m interested in data analysis, recently climate data
-- 🌱 I’m currently learning Environmental change and Global sustainability
+- 🌱 I’m currently a phd student at IUSS PAVIA
 - 💞️ I’m looking to collaborate on R and python data analytics 
 - 📫 To reach me, send an email here nyabutivictor@yahoo.com
