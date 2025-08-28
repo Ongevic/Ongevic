@@ -5,7 +5,7 @@
 
 I'm a **PhD Candidate in Sustainable Development & Climate Change** at IUSS Pavia, specializing in crop modeling and climate risk reduction. My research focuses on bridging the gap between climate science and agricultural practice to develop sustainable, climate-resilient farming solutions.
 
-📍 **Location**: Pavia, Lombardy, Italy  
+📍 **Location**: Pavia, Lombardy, Italy | Viborg, Denmark
 🌍 **ORCID**: [0000-0002-6603-0718](https://orcid.org/0000-0002-6603-0718)
 
 ## Research Focus
@@ -21,20 +21,6 @@ My interdisciplinary research centers on climate adaptation in agriculture throu
 ⚠️ **Risk Assessment** - Quantifying climate risks and developing mitigation measures for agricultural sectors
 
 🌧️ **Climate Modeling** - Utilizing convection-permitting models and kilometre-scale atmospheric projections
-
-## Professional Experience
-
-### 🏢 **Easysustainability**
-- **Relationships & Projects Lead** | **Chief Data Officer**
-- Leading sustainability initiatives and data-driven project management
-
-### 🔬 **Università degli Studi di Milano**
-- **Research Associate** | **ECGS Laboratory**
-- Climate change and global sustainability research
-
-### 💧 **Országos Vízügyi Főigazgatóság (Hungary)**
-- **Research Intern** | Water Management Authority
-- Environmental engineering and water resource management
 
 ## Education
 
@@ -84,11 +70,6 @@ My interdisciplinary research centers on climate adaptation in agriculture throu
 
 🎓 **Educational Outreach** - Mentoring students and promoting STEM education in climate science
 
-## Recent Publications & Research
-
-📑 **"Use of Convection Permitting climate models for maize yield projection over Italy"** (2025)  
-DOI: [10.5194/egusphere-egu25-10401](https://doi.org/10.5194/bb55dd35)
-
 ## Collaboration Opportunities
 
 💞️ **I'm looking to collaborate on**:
@@ -104,8 +85,6 @@ DOI: [10.5194/egusphere-egu25-10401](https://doi.org/10.5194/bb55dd35)
 📫 **Email**: [victor.ongera@iusspavia.it](mailto:victor.ongera@iusspavia.it) | [nyabutivictor@yahoo.com](mailto:nyabutivictor@yahoo.com)
 
 💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/7da04b78/)
-
-🌐 **ORCID**: [0000-0002-6603-0718](https://orcid.org/0000-0002-6603-0718)
 
 ---
 
