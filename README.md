@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Ongevic
-- 👀 I’m interested in data analysis, recently climate data
-- 🌱 I’m currently a phd student at IUSS PAVIA
-- 💞️ I’m looking to collaborate on R and python data analytics 
+- 👋 Hi, I'm @Ongevic
+- 👀 I'm interested in data analysis, recently climate data
+- 🌱 I'm currently a phd student at IUSS PAVIA
+- 💞️ I'm looking to collaborate on R and python data analytics 
 - 📫 To reach me, send an email here nyabutivictor@yahoo.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/victor-nyabuti-ongera-156394114/)
