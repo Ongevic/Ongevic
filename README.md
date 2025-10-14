@@ -5,10 +5,6 @@ I'm a **PhD Candidate in Sustainable Development & Climate Change** at IUSS Pavi
 📍 **Location**: Pavia, Lombardy, Italy | Viborg, Denmark
 🌍 **ORCID**: [0000-0002-6603-0718](https://orcid.org/0000-0002-6603-0718)
 
-## Contact & Connect
-
-📫 **Email**: [victor.ongera@iusspavia.it](mailto:victor.ongera@iusspavia.it) | [nyabutivictor@yahoo.com](mailto:nyabutivictor@yahoo.com)
-
-💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/7da04b78/)
+[victor.ongera@iusspavia.it](mailto:victor.ongera@iusspavia.it) | [LinkedIn](https://www.linkedin.com/in/7da04b78/)
 
 
