@@ -1,5 +1,4 @@
-# Hi there, I'm Victor Nyabuti Ongera! 👋
-
+Hi there, I'm Victor Nyabuti Ongera! 👋
 
 I'm a **PhD Candidate in Sustainable Development & Climate Change** at IUSS Pavia, specializing in crop modeling and climate risk reduction. My research focuses on bridging the gap between climate science and agricultural practice to develop sustainable, climate-resilient farming solutions.
 
