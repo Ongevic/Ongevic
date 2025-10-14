@@ -86,10 +86,4 @@ My interdisciplinary research centers on climate adaptation in agriculture throu
 
 💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/7da04b78/)
 
----
 
-*"Climate change is a reality that society must adapt to. My work focuses on addressing this challenge by bridging the gap between climate model outputs and crop simulation models, quantifying risks and suggesting mitigation and adaptation measures for the agricultural sector."*
-
----
-
-⭐ **Fun fact**: I speak multiple languages and am passionate about making climate science accessible to diverse communities worldwide!
