@@ -1,4 +1,4 @@
-# Hi there, I'm Victor Nyabuti Ongera! 👋
+# Hi there, I'm Victor Nyabuti Ong'era! 
 
 🎓 **PhD Candidate in Sustainable Development & Climate Change** at [IUSS Pavia](https://www.iusspavia.it), specializing in **crop modeling** and **climate risk reduction**.
 
@@ -24,7 +24,7 @@ I work at the intersection of climate science and food security, using computati
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- Crop simulation models (DSSAT, APSIM or similar)
+- Crop simulation models (DSSAT, APSIM, STICS, AquaCrop, WOFOST)
 - Climate data analysis & downscaling
 - GIS & spatial analysis
 - Scientific writing & research communication
