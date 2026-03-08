@@ -7,6 +7,12 @@ Hi there, I'm **Victor Nyabuti Ong'era** a PhD student in **Sustainable Developm
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CDO](https://img.shields.io/badge/CDO-1E90FF?style=flat&logo=gnu&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+
+
+
 
 - Crop simulation models (DSSAT, APSIM, STICS, AquaCrop, WOFOST)
 - Climate data analysis & downscaling
