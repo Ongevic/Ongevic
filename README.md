@@ -1,4 +1,4 @@
-Hi there, I'm **Victor Nyabuti Ong'era** a PhD student in Sustainable Development & Climate Change** at [IUSS Pavia](https://www.iusspavia.it), [CARISMA Centre](https://iusspavia-carisma.github.io/lab-website/), specializing in **crop modeling** and **climate risk reduction**.
+Hi there, I'm **Victor Nyabuti Ong'era** a PhD student in **Sustainable Development & Climate Change** at [IUSS Pavia](https://www.iusspavia.it), [CARISMA Centre](https://iusspavia-carisma.github.io/lab-website/), specializing in **crop modeling** and **climate risk reduction**.
 
 
 ##  Tools & Skills
