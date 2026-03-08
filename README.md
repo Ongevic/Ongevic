@@ -24,6 +24,3 @@ Hi there, I'm **Victor Nyabuti Ong'era** a PhD student in **Sustainable Developm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7da04b78/)
 [![Email](https://img.shields.io/badge/Email-victor.ongera@iusspavia.it-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victor.ongera@iusspavia.it)
 
----
-
-*"The Earth does not belong to us — we belong to the Earth."*
