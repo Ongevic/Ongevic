@@ -1,11 +1,6 @@
 Thank you for stopping by. I am an environmental engineer by training and a PhD student in  
-[**Sustainable Development & Climate Change**](https://www.phd-sdc.it/) at  
-[IUSS Pavia](https://www.iusspavia.it),  
-[CARISMA Centre](https://iusspavia-carisma.github.io/lab-website/).
-
-I work on **crop modeling**, **climate risk reduction**, and the design of  
-**reproducible, scalable workflows** for agricultural and climate research.
-
+[**Sustainable Development & Climate Change**](https://www.phd-sdc.it/) at  [IUSS Pavia](https://www.iusspavia.it),  [CARISMA Centre](https://iusspavia-carisma.github.io/lab-website/).
+I work on **crop modeling**, **climate risk reduction**, and the design of  **reproducible, scalable workflows** for agricultural and climate research.
 ##  Tools & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
